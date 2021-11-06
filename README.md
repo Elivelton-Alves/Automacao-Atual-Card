@@ -1,5 +1,7 @@
 # Automacao-Atual-Card
  Projeto de automação completo do processo de compra da Gráfica Atual Card.
+ 
+ 
 TECNOLOGIAS UTILIZADAS:
  Para realização do projeto foi utilizado Python e Selenium.
  
